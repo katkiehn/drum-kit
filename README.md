@@ -1,5 +1,5 @@
 # drum-kit
 
-A drum kit using Vanilla JS to incorporate sounds
+A drum kit using Vanilla JS to incorporate sounds, using data attributes to link to keys.
 
-Using Data-Attributes to use the keys (data-keys).
+
